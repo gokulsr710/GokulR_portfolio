@@ -167,7 +167,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("image/pexels-jakub-novacek-924824.jpg") no-repeat center;
+    background: url("GOKULR_PORTFOLIO/pexels-jakub-novacek-924824.jpg") no-repeat center;
     height: 100vh;
     color: white;
     min-height: 500px;
