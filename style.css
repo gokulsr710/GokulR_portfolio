@@ -330,7 +330,7 @@ margin: 10px 0;
 }
 .gallery.carousel .carousel .card img{
     height: 150px;
-    width: 60%;
+    width: 80%;
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid crimson;
