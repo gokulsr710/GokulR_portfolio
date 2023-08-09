@@ -222,7 +222,7 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 400px;
+    height: 600px;
     width: 70%;
     object-fit: cover;
     border-radius: 15px;
